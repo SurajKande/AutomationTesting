@@ -29,3 +29,9 @@ All About Automation Testing
   - once the Client confirms they're satisfied with the UAT, the code can then be pulished to the <b>Production ( or Live ) Environment</b>
 ### 4. Production Environment ( Live Environment )
   - Live Environment is where the software is finally deployed and accessed by end users for their uses
+
+  ![image](https://github.com/SurajKande/AutomationTesting/assets/37841586/38332166-e0bf-4cbd-975d-9344c88af6e1)
+  - each blue box represents a server or a machine
+  - we can have multipe phydical servers / machines based on the number of products or seperating the servers for different testing teams for example like Automation testing team , Performance testing team, Manual teasting to team, so that they can work on their own environments for better testing results.
+  - other environments can have multiple servers as well
+  - 

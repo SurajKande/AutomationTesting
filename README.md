@@ -9,4 +9,4 @@ All About Automation Testing
   - Manual Validation of application functionality is inefficent in certain cases
   - expanding application feature sets are making comprehensive manual testing more tedious and difficult
 
-## What is Environment
+## [What is Environment](Common Environment details.md)

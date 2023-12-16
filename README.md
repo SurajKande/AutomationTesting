@@ -30,7 +30,7 @@ All About Automation Testing
 ### 4. Production Environment ( Live Environment )
   - Live Environment is where the software is finally deployed and accessed by end users for their uses
 
-  ![image](https://github.com/SurajKande/AutomationTesting/assets/37841586/38332166-e0bf-4cbd-975d-9344c88af6e1)
+      ![image](https://github.com/SurajKande/AutomationTesting/assets/37841586/38332166-e0bf-4cbd-975d-9344c88af6e1)
   - each blue box represents a server or a machine
   - we can have multipe physical servers / machines based on the number of products or seperating the servers for different testing teams for example like Automation testing team , Performance testing team, Manual teasting to team, so that they can work on their own environments for better testing results.
   - other environments can have multiple servers as well
@@ -50,4 +50,28 @@ All About Automation Testing
       - Server data being full , low spec's server used to run
       - firewall / proxy issues
       - wrong software / not upto date software versions are being used in the server
+
+## Agile
+  - <b>Agile Methodology</b> : It is a practice that encourges continuous development and testing throughout the project software development cycle.
+    
+  - <b>Agile FrameWorks<b/> : An Agile framework is a specific approach to planning, managing, and executing work
+    * Agile frameworks typically fall into two categories
+        1. Frameworks designed for teams, and
+        2. frameworks designed to help organizations practice Agile at scale, across many teams.
+    * There is no single “best” Agile framework. The best approach for your team or organization will depend on a variety of factors, including your industry, Agile maturity, number of Agile teams, and goals for Agile within your organization.
+    * Scrum is one of the most used Agile FrameWork, there are other frameworks like Kanaban , XP, Etc.
+       
+  - <b>Agile Testing<b> : It simply means following the Agile Principles in Testing the software.
+  - <b>Agile Testing Methodology</b> : The goal of the Agile Automation Testing is to improve the effectiveness and efficiency of the software development process while maintaining quality, time and resource consumption.
+  
+      ![image](https://github.com/SurajKande/AutomationTesting/assets/37841586/35448c89-3c8b-4fbe-bc4f-65bdc186f40b)                   ![image](https://github.com/SurajKande/AutomationTesting/assets/37841586/faf48f11-2c02-49ee-8b21-bb4adc7f4af4)
+
+  - Agile is an approach for software development where it goes through the phases as Waterfall model , but the phases are divided into iterations.
+  - implied the whole project is divided into seperate sets , with each set having features ( new or modified ) that can be developed and delivered independently, only few product features will be worked on each iteration.
+  - Hence each feature developed in respesctive iterations go through all the phases of SDLC, hence not impacting the complete development , reducing the risks and also allowing the customer to see the subsets of product constantly.
+
+  - These Iterations are called as <b>Sprints</b> in the Agile Model. Each Sprints span about 2 to 4 weeks and No of Sprints depends on the size of the project.
+  - A lot of collaboration is needed in between teams from QA , DevOPS, developers , etc as each Sprint is a complete implementation of features, any bugs, issues regarding those features must be dealt within the sprint.  Hence all the teams must collaborate and work with each other for effective and efficient Development.
+
+  - Scrum : It is One of a type of Agile FrameWorks
 

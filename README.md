@@ -73,5 +73,23 @@ All About Automation Testing
   - These Iterations are called as <b>Sprints</b> in the Agile Model. Each Sprints span about 2 to 4 weeks and No of Sprints depends on the size of the project.
   - A lot of collaboration is needed in between teams from QA , DevOPS, developers , etc as each Sprint is a complete implementation of features, any bugs, issues regarding those features must be dealt within the sprint.  Hence all the teams must collaborate and work with each other for effective and efficient Development.
 
-  - Scrum : It is One of a type of Agile FrameWorks
+  - Scrum : It is One of a type of FrameWork which helps in executing Agile Methodology, i.e. it provides a framework within which multiple processes and techniques can be used.
+  - Scrum Roles
+    1. Scrum Master : The Scrum Master ensures that the team maintains scrum values and has the following responsibilities.
+         - Get rid of roadblocks for efficiency and Productivity.
+         - Organize Sprint planning sessions.
+         - Conduct retrospective reviews.
+         - Conduct daily scrum meetings.
+         - Communicate with stakeholders.
 
+    2. Product Owner : The Product Owner ensures that the teams contributions are aligned with the broader product goals. They are aware of product business requirements, such as client expectations and market trends. The following are the responsibilities of the Product owner
+         -   Increasing the value of the work done
+         -   Setting the Team's Product vision
+         -   Ensuring that the team is focused on meeting product requirements by communicating and assessing the progress
+
+    3. Scrum Team : The team is cross-functional, i.e. the team inclodes analysis, designers, developers, testers and others as needed and appropriate for the project development. The Following are the responsibilities of the Scrum Team
+         - Support Sprint Planning and target setting
+         - Contribute knowledge to the programming , design and improvement of product
+         - Determine the best development strategies
+         - Include testing products and prototypes, as well as other methods
+         - they have all the skills needed to complete the tasks without relying on anyone outside the team, it is designed to enhance flexibility, innovation and productivity hence saving time and effort.
